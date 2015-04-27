@@ -1,0 +1,22 @@
+{
+  "name": "Leaflet.Spin",
+  "main": "Leaflet.Spin.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/sebasrodriguez/Leaflet.Spin",
+  "authors": [
+    "Mathieu Leplatre"
+  ],
+  "description": "Leaflet Spinner",
+  "keywords": [
+    "leaflet",
+    "spinner"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
