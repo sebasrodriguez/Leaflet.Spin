@@ -1,11 +1,14 @@
 {
   "name": "leaflet-spin",
   "main": "Leaflet.Spin.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/sebasrodriguez/Leaflet.Spin",
   "authors": [
     "Mathieu Leplatre"
   ],
+  "dependencies": {
+    "spin.js": "~2.0.1"
+  },
   "description": "Leaflet Spinner",
   "keywords": [
     "leaflet",
